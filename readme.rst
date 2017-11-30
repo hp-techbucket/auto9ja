@@ -2,4 +2,4 @@
 AUTO9JA
 ###################
 
-eCommerce Platform For Automobiles
+Ecommerce platform developed in Codeigniter and Bootstrap
